@@ -1,4 +1,4 @@
 namespace UtmBuilder.Core.ValueObjects;
 
-public class Url : ValueObjects
+public class Url : ValueObject
 {}
